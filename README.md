@@ -3,8 +3,6 @@
 ## Table of Contents
 + [About](#about)
 + [Getting Started](#getting_started)
-+ [Usage](#usage)
-+ [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 This project utilizes the Hugging Face transformers library to demonstrate the use of a fill-mask language model. The script predicts the most likely words to fill in a masked token within a given sentence, providing both the predicted word and the associated confidence score.
